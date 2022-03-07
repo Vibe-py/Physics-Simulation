@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\CPP projects\SFML\Physics\Physics\Physics\main.cpp(8,21): warning C4305: 'argument': truncation from 'int' to 'unsigned char'
+E:\CPP projects\SFML\Physics\Physics\Physics\main.cpp(8,18): warning C4309: 'argument': truncation of constant value
+E:\CPP projects\SFML\Physics\Physics\Physics\main.cpp(8,13): warning C4309: 'argument': truncation of constant value
+  Window.cpp
+  Generating Code...
+  Physics.vcxproj -> E:\CPP projects\SFML\Physics\Physics\Debug\Physics.exe
