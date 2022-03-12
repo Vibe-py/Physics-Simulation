@@ -1,4 +1,4 @@
-this library includes the following:
+this repo includes the following:
 
 
 	visualization:
@@ -13,7 +13,7 @@ this library includes the following:
 		water physics (with and without air)
 
 currently working on:
-	
+	water physics (with and without air)
 
 done:
 	fabrics with wind
